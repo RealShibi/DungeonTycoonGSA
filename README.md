@@ -2,7 +2,7 @@
 
 **Version:** 0.1.0
 **Author:** Shibiii
-
+**Game Version:** 1.1.2
 ---
 
 ## 📦 Installation
